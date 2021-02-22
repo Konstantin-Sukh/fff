@@ -1,0 +1,42 @@
+footer img {
+    width: 45px;
+    height: 30px;
+}
+
+p {
+    margin: 15px;
+    padding: 15px;
+}
+
+main img {
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+h1, h2 {
+    background-color: red;
+    text-align: center;
+}
+
+header img {
+    width: 250px;
+    height: 205px;
+}
+
+main p {
+    border-left: 10px dotted peru;
+    border-right: 10px dotted peru;
+    border-top: 10px dotted peru;
+    border-bottom: 10px dotted peru;
+    background-color: green;
+    font-size: 20px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+footer {
+    font-size: 20px;
+}
